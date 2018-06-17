@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//comment
 int random_int(int max)
 {
   return rand() % max;
